@@ -1,5 +1,16 @@
 # Java Multi-Threading Documentation
 
+## Table of Contents
+1. [Thread Creation and Coordination](#thread-creation-and-coordination)
+2. [Performance Optimization](#performance-optimization)
+3. [Data Sharing](#data-sharing)
+4. [Concurrency Challenges and Solutions](#concurrency-challenges-and-solutions)
+5. [Advanced Locking](#advanced-locking)
+6. [Inter-Thread Communication](#inter-thread-communication)
+7. [Lock-Free Algorithms](#lock-free-algorithms)
+8. [Thread Model for High-Performance IO](#thread-model-for-high-performance-io)
+9. [Virtual Thread for High-Performance IO](#virtual-thread-for-high-performance-io)
+
 ## Detailed Index
 1. [Thread Creation and Coordination](#thread-creation-and-coordination)
    - [Creating Threads in Java](#creating-threads-in-java) [20-113]
@@ -82,17 +93,6 @@
    - [Virtual Thread Performance Considerations](#virtual-thread-performance-considerations) [2883-2948]
    - [Virtual Threads for HTTP Services](#virtual-threads-for-http-services) [2950-3020]
    - [Virtual Threads and JDBC](#virtual-threads-and-jdbc) [3022-3102]
-
-## Table of Contents
-1. [Thread Creation and Coordination](#thread-creation-and-coordination)
-2. [Performance Optimization](#performance-optimization)
-3. [Data Sharing](#data-sharing)
-4. [Concurrency Challenges and Solutions](#concurrency-challenges-and-solutions)
-5. [Advanced Locking](#advanced-locking)
-6. [Inter-Thread Communication](#inter-thread-communication)
-7. [Lock-Free Algorithms](#lock-free-algorithms)
-8. [Thread Model for High-Performance IO](#thread-model-for-high-performance-io)
-9. [Virtual Thread for High-Performance IO](#virtual-thread-for-high-performance-io)
 
 ## Thread Creation and Coordination
 
